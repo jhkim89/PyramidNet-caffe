@@ -35,6 +35,11 @@ Top-1 and Top-5 error rates of single-model, single-crop (224*224) on ImageNet d
 
 Model files download: [link](https://1drv.ms/f/s!AmNvwgeB0n4GsiDFDNJWZkEbajJf)
 
+## Notes
+
+1. The ImageNet results are obtained using the uploaded codes. 
+2. When testing with our model, please do not forget to use **a scale factor (0.017352)**.
+
 ## Contact
 Jiwhan Kim (jhkim89@kaist.ac.kr),
 Dongyoon Han (dyhan@kaist.ac.kr),

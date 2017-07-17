@@ -29,7 +29,7 @@ Top-1 and Top-5 error rates of single-model, single-crop (224*224) on ImageNet d
 | ResNet-101                                | 44.5M           |  2048                  | 23.6        | 7.1         |
 | PyramidNet-101, alpha=250                 | 23.5M           |  1256                  | 23.24       | 6.59        |
 | ResNet-152                                | 60.0M           |  2048                  | 23.0        | 6.7         |
-| PyramidNet-152, alpha=200                 | 26.0M           |  2048                  | 22.44       | 6.14        |
+| PyramidNet-152, alpha=200                 | 26.0M           |  1056                  | 22.44       | 6.14        |
 | PyramidNet-200, alpha=300                 | 62.1M           |  1456                  | 20.41       | 5.16        |
 | PyramidNet-200, alpha=450, Dropout (0.5)  | 116.4M          |  2056                  | 20.27       | 5.49        |
 

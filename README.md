@@ -33,9 +33,10 @@ Top-1 and Top-5 error rates of single-model, single-crop (224*224) on ImageNet d
 | PyramidNet-200, alpha=300                 | 62.1M           |  1456                  | 20.41       | 5.16        |
 | PyramidNet-200, alpha=450, Dropout (0.5)  | 116.4M          |  2056                  | 20.27       | 5.49        |
 
+Model files download: [link](https://1drv.ms/f/s!AmNvwgeB0n4GsiDFDNJWZkEbajJf)
+
 ## Contact
 Jiwhan Kim (jhkim89@kaist.ac.kr),
 Dongyoon Han (dyhan@kaist.ac.kr),
 Junmo Kim (junmo.kim@kaist.ac.kr)
 
-Model files download: [link](https://1drv.ms/f/s!AmNvwgeB0n4GsiDFDNJWZkEbajJf)
